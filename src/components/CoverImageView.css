@@ -1,0 +1,26 @@
+.cover-image-view {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.cover-image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.cover-image-large .cover-image {
+  width: 100%;
+}
+
+.cover-image-manga .cover-image {
+  width: 80%;
+}
+
+.cover-image-trade-paperback .cover-image {
+  width: 90%;
+}
+
+.cover-image-standard .cover-image {
+  width: 100%;
+}

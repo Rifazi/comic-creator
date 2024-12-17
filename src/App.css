@@ -1,0 +1,9 @@
+.app-container {
+  display: flex;
+  gap: 2rem;
+  padding: 2rem;
+}
+
+.main-content {
+  flex: 1;
+}
